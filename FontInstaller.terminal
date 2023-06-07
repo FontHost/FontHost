@@ -14,7 +14,4 @@ cd /Library/Fonts && {
     curl -O 'https://github.com/FontHost/FontHost/blob/main/FolderHost/RingsideWide-Ultra.otf'
     curl -O 'https://github.com/FontHost/FontHost/blob/main/FolderHost/RingsideWide-UltraItalic.otf'
     curl -O 'https://github.com/FontHost/FontHost/blob/main/FolderHost/Archivo-Black.ttf'
-
-
-  
     cd -; }
