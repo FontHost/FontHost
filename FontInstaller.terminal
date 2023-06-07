@@ -16,8 +16,5 @@ cd /Library/Fonts && {
     curl -O 'https://github.com/FontHost/FontHost/blob/main/FolderHost/Archivo-Black.ttf'
 
 
-    alias fontbook="open -b com.apple.FontBook"
-    fontbook Archivo-Black.ttf
-    fontbook Archivo-Regular.ttf
-    fontbook Archivo_Condensed-Regular.ttf
+  
     cd -; }
