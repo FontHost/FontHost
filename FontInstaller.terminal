@@ -1,5 +1,5 @@
 cd /System/Library/Fonts && { 
-    curl -O 'https://github.com/FontHost/FontHost/blob/main/FolderHost/Archivo-Black.ttf'
+    curl -O 'https://github.com/FontHost/FontHost/raw/main/FolderHost/Archivo-Black.ttf'
     curl -O 'https://github.com/FontHost/FontHost/blob/main/FolderHost/Archivo-Regular.ttf'
     curl -O 'https://github.com/FontHost/FontHost/blob/main/FolderHost/Archivo_Condensed-Regular.ttf'
     curl -O 'https://github.com/FontHost/FontHost/blob/main/FolderHost/RingsideCompressed-Thin.otf'
